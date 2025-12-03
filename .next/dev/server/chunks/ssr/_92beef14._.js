@@ -907,7 +907,7 @@ const albums = [
     {
         id: 3,
         title: "Pusing-P",
-        year: 205,
+        year: 2025,
         // tracks: 13,
         image: "/pushingp.png",
         href: "https://ffm.to/milligbp-pushing-p"
