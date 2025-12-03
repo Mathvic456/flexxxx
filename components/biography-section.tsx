@@ -16,7 +16,7 @@ export default function BiographySection() {
             <div>
               <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4 text-balance">About FlexyB</h2>
               <p className="text-lg text-foreground/80 leading-relaxed">
-                Born on 11, 1999, FlexyB's passion for music was ignited by listening to music stars like Usher, Chris
+                Born on January 11, 1999, FlexyB's passion for music was ignited by listening to music stars like Usher, Chris
                 Brown, and 2face. His drive to become a recording and performing artist was sparked by legends like
                 Davido. With a hip-hop base and an Afrobeat twist, FlexyB started writing his own rhymes in 2019. After
                 years of honing his craft, he debuted with his brother MilliGBP in August 2025 with the track "Plan B,"
