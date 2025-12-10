@@ -73,22 +73,22 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$vercel$2f$
 ;
 const metadata = {
     // <CHANGE> Updated metadata for artist website
-    title: "Artist Portfolio - Official Website",
-    description: "Discover the official website of a talented artist. Explore music, biography, and featured works.",
+    title: "FlexyB - Official Website",
+    description: "Official website of FlexyB. Explore music, biography, and featured works.",
     generator: "v0.app",
     icons: {
         icon: [
             {
-                url: "/icon-light-32x32.png",
+                url: "/icon.png",
                 media: "(prefers-color-scheme: light)"
             },
             {
-                url: "/icon-dark-32x32.png",
+                url: "/icon.png",
                 media: "(prefers-color-scheme: dark)"
             },
             {
-                url: "/icon.svg",
-                type: "image/svg+xml"
+                url: "/icon.png",
+                type: "image/svg+png"
             }
         ],
         apple: "/apple-icon.png"
